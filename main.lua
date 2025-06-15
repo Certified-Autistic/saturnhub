@@ -5,7 +5,7 @@ local supportedGameGroups = {
             Name = "Saber Simulator",
             Scripts = {
                 { Name = "Script 1", URL = "https://rawscripts.net/raw/Saber-Simulator-REVAMP-Op-Gui-41756" },
-                { Name = "Script 2", URL = "" },
+                { Name = "Script 2", URL = "https://rawscripts.net/raw/Saber-Simulator-SUMMER-SUMMER-EVENT-AUTO-FARM-AUTO-BUY-AUTO-BOSS-41970" },
                 { Name = "Script 3", URL = "" },
                 { Name = "Script 4", URL = "" },
                 { Name = "Script 5", URL = "" }
@@ -16,14 +16,21 @@ local supportedGameGroups = {
             Name = "Grow a Garden",
             Scripts = {
                 { Name = "Script 1", URL = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua" },
-                { Name = "Script 2", URL = "" }
+                { Name = "Script 2", URL = "" },
+                { Name = "Script 3", URL = "" },
+                { Name = "Script 4", URL = "" },
+                { Name = "Script 5", URL = "" }
             }
         },
         {
             ID = 13127800756,
             Name = "Arm Wrestle Simulator",
             Scripts = {
-                { Name = "Script 1", URL = "" }
+                { Name = "Script 1", URL = "" },
+                { Name = "Script 3", URL = "" },
+                { Name = "Script 3", URL = "" },
+                { Name = "Script 4", URL = "" },
+                { Name = "Script 5", URL = "" }
             }
         }
     }
